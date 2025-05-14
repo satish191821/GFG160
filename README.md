@@ -1,2 +1,2 @@
 # GFG160
-solution of gfg 160 day challenge
+solution of gfg 160 day challenge using java .
